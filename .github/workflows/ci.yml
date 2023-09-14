@@ -1,0 +1,5 @@
+name: CI for Angular
+on: push
+jobs:
+  unit-test:
+    runs-on: ubuntu-latest
